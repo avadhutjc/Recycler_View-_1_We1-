@@ -1,0 +1,10 @@
+com/masai/a7july_recycler_view_1_we1/Student.java
+ com.masai.a7july_recycler_view_1_we1.Student
+com/masai/a7july_recycler_view_1_we1/BuildConfig.java
+ com.masai.a7july_recycler_view_1_we1.BuildConfig
+com/masai/a7july_recycler_view_1_we1/StudentAdapter.java
+ com.masai.a7july_recycler_view_1_we1.StudentAdapter
+com/masai/a7july_recycler_view_1_we1/StudentViewHolder.java
+ com.masai.a7july_recycler_view_1_we1.StudentViewHolder
+com/masai/a7july_recycler_view_1_we1/MainActivity.java
+ com.masai.a7july_recycler_view_1_we1.MainActivity
