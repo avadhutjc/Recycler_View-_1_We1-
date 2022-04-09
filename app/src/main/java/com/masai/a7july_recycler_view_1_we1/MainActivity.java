@@ -25,6 +25,7 @@ public class MainActivity extends AppCompatActivity {
 
     private void buildStudentList() {
         studentList = new ArrayList<>();
+
         Student student1 = new Student("Anush", 21, "EMP123");
         studentList.add(student1);
 
@@ -48,7 +49,6 @@ public class MainActivity extends AppCompatActivity {
         LinearLayoutManager linearLayoutManager = new LinearLayoutManager(this);
         recyclerView.setLayoutManager(linearLayoutManager);
         recyclerView.setAdapter(studentAdapter);
-
     }
 
     private void initViews() {

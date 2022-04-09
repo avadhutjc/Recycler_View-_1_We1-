@@ -1,6 +1,5 @@
 package com.masai.a7july_recycler_view_1_we1;
 
-import android.content.ClipData;
 import android.view.View;
 import android.widget.TextView;
 

@@ -1,9 +1,9 @@
 package com.masai.a7july_recycler_view_1_we1;
 
 public class Student {
-    private String name;
-    private int age;
-    private String rollNo;
+    private final String name;
+    private final int age;
+    private final String rollNo;
 
     public Student(String name, int age, String rollNo) {
         this.name = name;
